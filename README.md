@@ -8,7 +8,7 @@ The following information gets stored:
 - Pet Type
 - Pet Name
 - Pet Age
-- Pet Colur
+- Pet Colour
 - Pet Weight
 - Pet Breed
 - Last Visit
